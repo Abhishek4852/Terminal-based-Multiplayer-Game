@@ -12,10 +12,31 @@ The goal is to make the game fun and engaging, just like old classics such as Sn
 ⚙️ Tech Stack
 
 Programming Language: 🐍 Python (for both server and client)
+
 Networking: socket module (for client-server communication)
+
 Concurrency: threading module (for handling multiple clients at the same time)
+
 Game Interface: curses library (for ASCII-based terminal graphics)
+
 Data Exchange: JSON (to encode and decode game state/messages)
+
 Operating System: Works on Linux, macOS, and Windows (with terminal support)
+
+✨ Features
+
+Multiplayer support over a network 🌐
+
+Real-time communication ⚡
+
+Lightweight terminal-based UI (ASCII graphics)
+
+Cross-platform compatibility 🖥️
+
+Smooth gameplay with low latency 🎯
+🚀 How to Run the Application
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
 
