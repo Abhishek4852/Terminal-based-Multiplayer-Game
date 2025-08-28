@@ -5,5 +5,17 @@ Most multiplayer games need heavy graphics and powerful systems, which makes the
 
 The goal is to make the game fun and engaging, just like old classics such as Snake, Pong, or simple turn-based games, but still lightweight and easy to run.
 
-![System Architecture].
+
+📌 ![System Architecture] 
 ![WhatsApp Image 2025-08-29 at 00 19 48_36cfbc1c](https://github.com/user-attachments/assets/312efcab-6aee-47b8-8c5a-0a035534ecf8)
+
+⚙️ Tech Stack
+
+Programming Language: 🐍 Python (for both server and client)
+Networking: socket module (for client-server communication)
+Concurrency: threading module (for handling multiple clients at the same time)
+Game Interface: curses library (for ASCII-based terminal graphics)
+Data Exchange: JSON (to encode and decode game state/messages)
+Operating System: Works on Linux, macOS, and Windows (with terminal support)
+
+
